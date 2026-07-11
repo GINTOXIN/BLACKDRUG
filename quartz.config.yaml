@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: GINTOXIN.github.io/my-notes
+  baseUrl: GINTOXIN.github.io/BLACKDRUG
   ignorePatterns:
     - private
     - templates
